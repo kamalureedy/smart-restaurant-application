@@ -1,9 +1,9 @@
    THEME color palette 
 
-   5C7057 
+   #5C7057 
 
-   89A482
+   #89A482
 
-   ACC5A6
+   #ACC5A6
 
-   D1EDD3
+   #D1EDD3
