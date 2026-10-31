@@ -17,7 +17,6 @@ HOSTING VERCEL
 
 STORAGE  SUPABASE
 
-Yogi -------------------------------------------
 
 features :  
 
