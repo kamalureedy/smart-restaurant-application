@@ -1,6 +1,4 @@
-Dummy
-
-                                                              SMART RESTURENT APPLICATION 
+# SMART RESTURENT APPLICATION 
 
 
              problem : too many crowed people, 
@@ -19,7 +17,7 @@ HOSTING VERCEL
 
 STORAGE  SUPABASE
 
-
+Yogi -------------------------------------------
 
 features :  
 
